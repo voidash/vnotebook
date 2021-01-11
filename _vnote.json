@@ -1,25 +1,46 @@
 {
     "attachment_folder": "_v_attachments",
-    "created_time": "2020-12-23T15:46:24Z",
+    "created_time": "2020-11-27T06:13:46Z",
     "files": [
     ],
     "image_folder": "",
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "competetive programming"
+            "name": "my_notes"
         },
         {
-            "name": "nepal goverment"
+            "name": "newPlan"
         },
         {
-            "name": "Philosophize This"
+            "name": "Django Notes"
         },
         {
-            "name": "physics102"
+            "name": "physics"
         },
         {
-            "name": "VIkram Sambat"
+            "name": "ecommer"
+        },
+        {
+            "name": "2021 plans"
+        },
+        {
+            "name": "reactTuts"
+        },
+        {
+            "name": "german_lessons"
+        },
+        {
+            "name": "random Reading list"
+        },
+        {
+            "name": "philosophize_this"
+        },
+        {
+            "name": "pythonLib docs"
+        },
+        {
+            "name": "linux"
         }
     ],
     "tags": [

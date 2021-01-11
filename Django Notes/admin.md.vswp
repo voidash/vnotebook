@@ -1,0 +1,7 @@
+vnote_backup_file_826537664 /home/voidash/Documents/vnote_notebooks/vnotebook/Django Notes/admin.md
+# admin
+
+## creating superuser
+
+            $ python3 manage.py createsuperuser 
+           

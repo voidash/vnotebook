@@ -1,0 +1,15 @@
+vnote_backup_file_826537664 /home/voidash/Documents/vnote_notebooks/vnotebook/reactTuts/Redux.md
+# Redux
+
+![](_v_images/20210111090402556_875306714.png =x450)
+
+ * Note that redux and react-redux are different things.
+ * Redux can be used as standalone to manage states.
+ * React redux is required for connecting the `createStore` method with react.
+
+## Example code
+
+![](_v_images/20210111095106423_1381172885.png)
+
+## For react
+

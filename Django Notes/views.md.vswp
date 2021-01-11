@@ -1,0 +1,7 @@
+vnote_backup_file_826537664 /home/voidash/Documents/vnote_notebooks/vnotebook/Django Notes/views.md
+# views
+
+
+Views are called after `URLdispatcher` matches the `URLPattern`. 
+
+Create a view
