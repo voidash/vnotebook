@@ -1,0 +1,48 @@
+{
+    "created_time": "2021-01-11T08:47:59Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "vx_recycle_bin"
+        },
+        {
+            "name": "my_notes"
+        },
+        {
+            "name": "newPlan"
+        },
+        {
+            "name": "Django Notes"
+        },
+        {
+            "name": "physics"
+        },
+        {
+            "name": "ecommer"
+        },
+        {
+            "name": "2021 plans"
+        },
+        {
+            "name": "reactTuts"
+        },
+        {
+            "name": "german_lessons"
+        },
+        {
+            "name": "random Reading list"
+        },
+        {
+            "name": "philosophize_this"
+        },
+        {
+            "name": "pythonLib docs"
+        },
+        {
+            "name": "linux"
+        }
+    ],
+    "id": "1",
+    "version": "1"
+}
